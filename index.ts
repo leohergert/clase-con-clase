@@ -81,7 +81,7 @@ function testClaseEdificio() {
 
 function main() {
     testClaseEdificio();
-    //Agregando texto para hacer otro commit
+    //Agregando texto desde github, para hacer un commit desde el repo remoto
 }
 
 main();
